@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fwchen/fwchen.github.io/issues"
   },
-  "homepage": "https://github.com/fwchen/fwchen.github.io#readme"
+  "homepage": "https://github.com/fwchen/fwchen.github.io#readme",
+  "dependencies": {
+    "webpack": "^3.5.5"
+  }
 }
