@@ -1,4 +1,5 @@
 name: FW.IO
 watch: true
 flow:
+  - install: yarn install --pure-lockfile
   - build: npm run build
