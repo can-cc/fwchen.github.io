@@ -1,6 +1,7 @@
 <template>
   <div class="card-container">
     <img class="me-photo" alt="" src="../../assets/me.jpeg"/>
+    <img class="chen" src="../../assets/chen.png"/>
     <div class="black-block"></div>
     <div class="card">
     </div>
