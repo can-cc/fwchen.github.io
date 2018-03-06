@@ -1,0 +1,4 @@
+name: BLOG
+watch: true
+flow:
+  - build: npm run build
