@@ -1,4 +1,4 @@
-name: BLOG
+name: FW.IO
 watch: true
 flow:
   - build: npm run build
