@@ -5,6 +5,16 @@
     <div class="black-block"></div>
     <div class="card">
       <div>
+        <dl>
+          <dt>Name</dt>
+          <dd>放為</dd>
+
+          <dt>Location</dt>
+          <dd>Shenzhen</dd>
+
+          <dt>Dev</dt>
+          <dd>Full Stack</dd>
+        </dl>
       </div>
     </div>
   </div>
